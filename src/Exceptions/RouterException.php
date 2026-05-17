@@ -8,5 +8,4 @@ use RuntimeException;
 
 class RouterException extends RuntimeException
 {
-
 }

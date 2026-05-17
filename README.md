@@ -35,6 +35,7 @@ Invalid route definitions, duplicate routes, unmatched routes, and dispatch fail
 
 ## Documentation
 
+- [Documentation index](docs/index.md)
 - [Usage](docs/usage.md)
 - [Testing](TESTING.md)
 - [Contributing](CONTRIBUTING.md)
